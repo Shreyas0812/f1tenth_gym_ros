@@ -42,7 +42,7 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: './src/f1tenth_gym_ros/maps/new_map_smoothed'
+    map_path: './src/f1tenth_gym_ros/maps/final_race/final_race_map_edited'
     map_img_ext: '.png'
 
     # car parameters and scale
@@ -53,13 +53,13 @@ bridge:
     num_agent: 2
 
     # ego starting pose on map
-    sx: 3.0
-    sy: -1.5
+    sx: 1.47
+    sy: -0.02
     stheta: 0.0
 
     # opp starting pose on map
-    sx1: 4.6
-    sy1: -1.3
+    sx1: 3.03
+    sy1: 0.24
     stheta1: 0.0
 
     # teleop
