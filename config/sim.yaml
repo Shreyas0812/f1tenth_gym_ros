@@ -42,8 +42,8 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: './src/f1tenth_gym_ros/maps/final_race/race3-map-1_smoothed'
-    map_img_ext: '.png'
+    map_path: './src/f1tenth_gym_ros/maps/final_race/lap5_sat1'
+    map_img_ext: '.pgm'
 
     # car parameters and scale
     vehicle_params: 'f1tenth'
