@@ -1,0 +1,6 @@
+image: agh300a1.pgm
+resolution: 0.05
+origin: [-5.13, -4.19, 0]
+negate: 0
+occupied_thresh: 0.65
+free_thresh: 0.25
