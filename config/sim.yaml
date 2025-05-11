@@ -42,12 +42,12 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: './src/f1tenth_gym_ros/maps/agh300a1'
+    map_path: './src/f1tenth_gym_ros/maps/parapark_levine2'
     map_img_ext: '.pgm'
 
     # car parameters and scale
     vehicle_params: 'f1tenth'
-    scale: 1.2
+    scale: 1.0
 
     # opponent parameters
     num_agent: 1
