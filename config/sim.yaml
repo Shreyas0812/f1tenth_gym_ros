@@ -1,3 +1,4 @@
+
 # MIT License
 
 # Copyright (c) 2020 Hongrui Zheng
@@ -42,7 +43,7 @@ bridge:
     scan_beams: 1080
 
     # map parameters
-    map_path: './src/f1tenth_gym_ros/maps/final_race/lap5_sat1'
+    map_path: './src/f1tenth_gym_ros/maps/race3_new'
     map_img_ext: '.pgm'
 
     # car parameters and scale
@@ -50,11 +51,11 @@ bridge:
     scale: 1.0
 
     # opponent parameters
-    num_agent: 2
+    num_agent: 1
 
     # ego starting pose on map
-    sx: -6.4
-    sy: 7.02
+    sx: 0.0
+    sy: 0.0
     stheta: 0.0
 
     # opp starting pose on map
